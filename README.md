@@ -1,21 +1,26 @@
-# PROG2006 - Advanced Programming
+# Cloud Technologies
 
-Welcome to my repository for **PROG2006 - Advanced Programming**! This repository contains my coursework, including notes, assignments, and personal projects for the course.
+Welcome to my repository for the **Cloud Technologies** course! This repository contains notes, assignments, and project work related to the course.
 
 ## 📖 About the Course
 
-This course dives into modern programming languages and paradigms, focusing on multi-paradigm approaches and advanced programming features.
+This course explores the principles and practices of cloud computing, including fundamental concepts, architectures, and modern tools used in the field.
 
 ### Key Topics:
-- Lambda Calculus and Functional Programming
-- Lazy Computations and Memory Management
-- Event-Driven and Reactive Programming
-- Multi-Threaded and Concurrent Programming
-- Smart Contracts and Modern Programming Techniques
+- Networking and the OSI model
+- Virtualization technologies
+- Unix/Linux systems (Shell, Bash, SSH, NFS)
+- Cloud architectures (Infrastructure, Scaling)
+- Cloud service models: SaaS, PaaS, IaaS
+- Cloud economics (Business and pricing models)
+- Security and risk management in the cloud
+- Cloud-based web APIs and RESTful services
 
-### Programming Languages Covered:
-- **Primary Languages:** Haskell, Rust, Golang, Kotlin, Dart, Solidity  
-- **References:** C++, Python, and others
+### Learning Outcomes:
+- **Knowledge:** Thorough understanding of cloud models, networking, and REST APIs.
+- **Skills:** Design RESTful APIs, evaluate cloud solutions, and programmatically interact with APIs.
+- **Competence:** Discuss cloud technologies, security risks, and environmental impacts.
 
-Stay tuned for updates as I work through the course!
+### Technologies Covered:
+Familiarity with major cloud providers like Go,AWS, Google Cloud, and Azure.
 
