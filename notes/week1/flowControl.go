@@ -64,15 +64,15 @@ func main() {
 	}
 
 	// Assignment: Control Structures
-// 	Assignment: Control Structures
-// Write a program that:
-// Takes an integer variable age.
-// Prints whether the person is a child, teenager, or adult using if-else.
-// Uses a for loop to print numbers from 1 to age.
-// Uses a switch to categorize the person’s age group:
-// 0–12: "Child"
-// 13–19: "Teenager"
-// 20+: "Adult"
+	// 	Assignment: Control Structures
+	// Write a program that:
+	// Takes an integer variable age.
+	// Prints whether the person is a child, teenager, or adult using if-else.
+	// Uses a for loop to print numbers from 1 to age.
+	// Uses a switch to categorize the person’s age group:
+	// 0–12: "Child"
+	// 13–19: "Teenager"
+	// 20+: "Adult"
 
 	// 1. Check age group using if-else
 	var theAge int = 20
