@@ -24,3 +24,8 @@ This course explores the principles and practices of cloud computing, including 
 ### Technologies Covered:
 Familiarity with major cloud providers like Go,AWS, Google Cloud, and Azure.
 
+### Pull Updates in the Future
+When your teacher updates their repository, you can pull the changes by running:
+
+```bash
+git submodule update --remote
